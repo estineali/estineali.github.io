@@ -1,1 +1,10 @@
 /* Stylesheets */
+
+body {
+  background-color: darkslategrey;
+  font-color:orange;
+}
+
+.centeralignment {
+  text-align:center;
+}
