@@ -2,9 +2,10 @@
 
 body {
   background-color: darkslategrey;
-  font-color:orange;
+  font-color:DarkGoldenRod;
 }
 
 .centeralignment {
   text-align:center;
+  font-color:DarkGoldenRod;
 }
